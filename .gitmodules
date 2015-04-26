@@ -1,0 +1,6 @@
+[submodule "pms-observer"]
+	path = pms-observer
+	url = git@github.com:GlenDC/pms-observer.git
+[submodule "pms-player"]
+	path = pms-player
+	url = git@github.com:GlenDC/pms-player.git
